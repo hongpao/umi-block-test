@@ -1,0 +1,22 @@
+{
+  "name": "@umi-block/umi-block-test",
+  "version": "0.0.1",
+  "description": "umi block build",
+  "main": "src/index.js",
+  "authors": {
+    "name": "hongpao",
+    "email": "hongpao@2dfire.com"
+  },
+  "repository": "umijs/umi-blocks/umi-block-test",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.9.0",
+    "umi-plugin-block-dev": "^2.0.0"
+  },
+  "license": "MIT"
+}
